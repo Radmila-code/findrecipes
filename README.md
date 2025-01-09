@@ -3,7 +3,7 @@
 <h3 align="center">Front-end developer, freelancer and student at the CanSheCode programming school.</h3>
 <br>
 
-<img src="https://github.com/Radmila-code/findrecipes/blob/main/title.jpg" width="200px" alt="Title photo" />
+<img src="https://github.com/Radmila-code/findrecipes/blob/main/src/title.jpg" width="200px" alt="Title photo" />
 
 # Find a Recipe Project
 
