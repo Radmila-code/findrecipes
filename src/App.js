@@ -45,14 +45,12 @@ function App() {
 
       <div className='container'>
         <form onSubmit={finalSearch}>
-            <input className='search' placeholder='Search...' onChange={myRecipeSearch} value={mySearch} />
-        </form>
-      </div>
+          <input className='search' placeholder='Search...' onChange={myRecipeSearch} value={mySearch}/>
 
-      <div className='container'>
           <button onClick={finalSearch}>
-              <img src={findLoop} alt="icon" width='50px' />
-            </button>
+            <img src={findLoop} alt="icon" width='50px' />
+          </button>
+        </form>
       </div>
 
       {myRecipes.map((element, index) => (
